@@ -13,9 +13,9 @@
 
 ### Cadastro de Personagens
 
-- [ ] Deve poder cadastrar um personagem com as características conforme tabela abaixo:
-- [ ] Deve retornar o id do personagem ao realizar o cadastro
-- [ ] Não deve cadastrar personagem com nome duplicado
+- [X] Deve poder cadastrar um personagem com as características conforme tabela abaixo:
+- [X] Deve retornar o id do personagem ao realizar o cadastro
+- [X] Não deve cadastrar personagem com nome duplicado
 - [ ] Com exceção da idade, todos os campos são obrigatórios
 
 | campos | descrição                             | tipo     | obrigatório |
@@ -28,10 +28,10 @@
 
 ### Busca de Personagens
 
-- [ ] Deve retornar uma lista de personagens cadastrados
-- [ ] Deve poder buscar por personagem por nome
-- [ ] Deve poder buscar personagem pelo id
-- [ ] Deve retornar 404 ao buscar por id não cadastrado
+- [X] Deve retornar uma lista de personagens cadastrados
+- [X] Deve poder buscar por personagem por nome
+- [X] Deve poder buscar personagem pelo id
+- [X] Deve retornar 404 ao buscar por id não cadastrado
 
 ### Remover Personagem
 
